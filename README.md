@@ -7,7 +7,7 @@ The project is based on data analysis model developed to predict DIABETES, HYPER
 For the data analysis, [Click here](https://github.com/imakshit/Early-Disease-Predicor-Based-on-ML/tree/master/Diabetes_hypertension_depression_prediction_analysis)
 
 ## From analysis to web app
-Converting any Machine Learning to web app, you can use *STREAMLIT*
+Converting any Machine Learning model to web app, you can use *STREAMLIT*
 
 Streamlit’s open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours!  All in pure Python. All for free.
 
