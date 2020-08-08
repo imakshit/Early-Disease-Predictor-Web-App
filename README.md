@@ -30,6 +30,8 @@ Open the command prompt in the project directory and execute the following comma
 
 The app will be available at **"localhost:8501"**
 
+I deployed the app on heroku, check it [here](https://disease-pred-app.herokuapp.com/)
+
 ## Snapshots of App
 
 ![Github logo](https://github.com/imakshit/Early-Disease-Predictor-Web-App/blob/master/screen_shots/ss1.png)
