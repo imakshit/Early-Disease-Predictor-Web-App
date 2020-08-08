@@ -6,6 +6,8 @@ The project is based on data analysis model developed to predict DIABETES, HYPER
 
 For the data analysis, [Click here](https://github.com/imakshit/Early-Disease-Predicor-Based-on-ML/tree/master/Diabetes_hypertension_depression_prediction_analysis)
 
+For app, [Click here](https://disease-pred-app.herokuapp.com/)
+
 ## From analysis to web app
 Converting any Machine Learning model to web app, you can use *STREAMLIT*
 
